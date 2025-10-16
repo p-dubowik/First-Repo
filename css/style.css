@@ -33,4 +33,5 @@ h2{
 .poem-content{
     max-width: 350px;
     font-style: italic;
+    text-shadow: 1.1px 1.2px 1px grey;
 }
