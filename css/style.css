@@ -1,0 +1,30 @@
+/* Poem */
+
+.poem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+h2{
+    font-size: 30px;
+    margin-bottom: 0;
+}
+
+.poem > p{
+
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.poem-content{
+    max-width: 350px;
+    font-style: italic;
+}
