@@ -1,3 +1,9 @@
+/* Global */
+
+html, body{
+    background-color: rgba(185, 146, 130, 0.596);
+}
+
 /* Poem */
 
 .poem{
